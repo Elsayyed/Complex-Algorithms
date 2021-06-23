@@ -1,7 +1,7 @@
 # Complex-Algorithms (Python + MATLAB)
-Summary:
-1- Merge sort (MATLAB)
-2- Large Matrix Multiplication for Machine learning purposes
+#Summary:
+#1- Merge sort (MATLAB)
+#2- Large Matrix Multiplication for Machine learning purposes
 3- Matrix Decomposition
 4- Gaussian elimination/decomposition
 5- Block matrix decomposition
