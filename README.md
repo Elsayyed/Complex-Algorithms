@@ -12,5 +12,5 @@
 <li> Time efficiency analysis (Recursive top-down approach, bottom-up approach)</li>
 <li> Several memoization implementation</li>
 <li> Huffman Encoding (Full process, building tree, encoding, decoding, exporting files)</li>
-<li> Linear Regression models on a given any dataset and their time efficiency analysis</li>
+<li> Linear Regression models on any given dataset and their time efficiency analysis</li>
 </ol>
