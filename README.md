@@ -1,6 +1,6 @@
-Complex Algorithms & their analysis (Python + MATLAB) <br>
+<h1>Complex Algorithms & their analysis (Python + MATLAB) </h1> <br>
 
-<h3> Algorithms Included Summary: </h3><br>
+<h3> Algorithms Included Summary: </h3>
 <ol>
 <li> Merge sort (MATLAB)</li>
 <li> Large Matrix Multiplication for Machine learning purposes</li>
