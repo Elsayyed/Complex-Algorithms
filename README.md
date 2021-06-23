@@ -1,6 +1,6 @@
-# Complex-Algorithms (Python + MATLAB) <br>
-<h1> Algorithms Included Summary: </h1><br>
+<h1>Complex Algorithms & their analysis (Python + MATLAB) </h1> <br>
 
+<h3> Algorithms Included Summary: </h3>
 <ol>
 <li> Merge sort (MATLAB)</li>
 <li> Large Matrix Multiplication for Machine learning purposes</li>
@@ -12,5 +12,5 @@
 <li> Time efficiency analysis (Recursive top-down approach, bottom-up approach)</li>
 <li> Several memoization implementation</li>
 <li> Huffman Encoding (Full process, building tree, encoding, decoding, exporting files)</li>
-<li> Linear Regression models on a given any dataset and their time efficiency analysis</li>
+<li> Linear Regression models on any given dataset and their time efficiency analysis</li>
 </ol>
