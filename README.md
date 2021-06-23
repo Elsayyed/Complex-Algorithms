@@ -1,5 +1,5 @@
-# Complex-Algorithms (Python + MATLAB) <br>
-<h1> Algorithms Included Summary: </h1><br>
+Complex Algorithms & their analysis (Python + MATLAB) <br>
+<h3> Algorithms Included Summary: </h1><br>
 
 <ol>
 <li> Merge sort (MATLAB)</li>
